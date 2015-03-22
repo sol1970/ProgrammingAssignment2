@@ -1,6 +1,6 @@
 ## Put comments here that give an overall description of what your
 ## functions do
-## it calculates the inverse of a special matrix
+## 
 ## Write a short comment describing this function
 
 makeCacheMatrix <- function(x = matrix()) {
